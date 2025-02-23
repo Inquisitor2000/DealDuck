@@ -42,8 +42,11 @@ Can be used to send ad with aproximation to time.
 Text promo defined in Promo folder .json [3promos | 2 languages].
 
 The images follow _ro | _ru rules.
+
 promo1 = 09:00
+
 promo2 = 13:00
+
 promo3 = 17:00
 
 [ send_poll ]
