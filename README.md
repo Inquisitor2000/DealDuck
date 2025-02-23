@@ -42,6 +42,7 @@ Sends predefined ads to users at fixed time autonomously.
 Can be used to send ad with aproximation to time.
 
 Text promo defined in Promo folder .json
+
 [3 promos | 2 languages].
 
 The images follow _ro | _ru rules.
