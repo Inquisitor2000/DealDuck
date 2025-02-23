@@ -11,6 +11,7 @@ Scraper using puppeteer (Node.js) for local eshop platforms from Moldova.
 #Smart.md
 #Maximum.md
 #Bomba.md
+#Bigshop.md
 
 Including also a customized telegram bot to parse that information to a telegram bot. Using romanian/russian commands.
 Automated userbase curating system.
