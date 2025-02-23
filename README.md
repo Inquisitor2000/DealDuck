@@ -8,13 +8,19 @@ _______________________________
 #Enter.md
 
 #Pandashop.md
-#Ultra.md
-#Gsmshop.md
-#Smart.md
-#Maximum.md
-#Bomba.md
-#Bigshop.md
 
+#Ultra.md
+
+#Gsmshop.md
+
+#Smart.md
+
+#Maximum.md
+
+#Bomba.md
+
+#Bigshop.md
+_______________________________
 Including also a customized telegram bot to parse that information to a telegram bot. Using romanian/russian commands.
 Automated userbase curating system.
 
