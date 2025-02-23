@@ -6,6 +6,7 @@ Including also a customized telegram bot to parse that information. Using romani
 RL_Commands
 
 [ send_msg ]
+
 Sends predefined messages.
 C:/Users/Admin/Desktop/DealDuck/message.json
 
