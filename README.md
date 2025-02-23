@@ -12,7 +12,8 @@ C:/Users/Admin/Desktop/DealDuck/message.json
 send_ad
 Sends predefined ads to users at fixed time autonomously.
 Can be used to send ad with aproximation to time.
-Text promo defined in Promo folder .json [3promos | 2 languages] 
+Text promo defined in Promo folder .json [3promos | 2 languages].
+
 The images follow _ro | _ru rules.
 promo1 = 09:00
 promo2 = 13:00
