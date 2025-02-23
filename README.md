@@ -1,6 +1,8 @@
 # DealDuck
 Scraper using puppeteer (Node.js) for local eshop platforms from Moldova.
 
+Including also a customized telegram bot to parse that information. Using romanian/russian commands.
+
 RL_Commands
 
 send_msg
