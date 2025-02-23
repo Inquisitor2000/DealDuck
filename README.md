@@ -35,5 +35,4 @@ Always use it.
 
 [ send_sleep ]
 
-Announce that the bot is shutting down for the night.
-The most important !
+Announce that the bot is shutting down for the night. If neccesary.
