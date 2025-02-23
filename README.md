@@ -4,13 +4,13 @@ Scraper using puppeteer (Node.js) for local eshop platforms from Moldova.
 .mjs instruction using headless puppeteer for individual eshop platforms:
 
 #Darwin.md
-# Enter.md
-# Pandashop.md
-# Ultra.md
-# Gsmshop.md
-# Smart.md
-# Maximum.md
-# Bomba.md
+#Enter.md
+#Pandashop.md
+#Ultra.md
+#Gsmshop.md
+#Smart.md
+#Maximum.md
+#Bomba.md
 
 Including also a customized telegram bot to parse that information to a telegram bot. Using romanian/russian commands.
 Automated userbase curating system.
