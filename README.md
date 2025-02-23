@@ -2,7 +2,7 @@
 Scraper using puppeteer (Node.js) for local eshop platforms from Moldova.
 
 .mjs instruction using headless puppeteer for individual eshop platforms:
-
+_______________________________
 #Darwin.md
 
 #Enter.md
