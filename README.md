@@ -26,7 +26,7 @@ Automated userbase curating system.
 
 Promo scheduler.
 Poll system.
-Metrics price histogram (not yet ready).
+Metrics price histogram.
 ___
 RL_Commands
 
