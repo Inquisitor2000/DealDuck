@@ -56,8 +56,8 @@ promo3 = 17:00
 [ send_poll ]
 
 Sends poll to users.
-The poll is predefined inside json.
-poll.json ( do not delete )
+The poll is predefined inside poll.json ( do not delete )
+
 The results are stored inside PollVotes.json
 
 [ send_update ]
