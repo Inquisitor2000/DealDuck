@@ -21,8 +21,11 @@ _______________________________
 
 #Bigshop.md
 _______________________________
-Including also a customized telegram bot to parse that information to a telegram bot. Using romanian/russian commands.Predefined messages are separate for each language.
-Automated userbase curating system alongside theur specified language of choise userpreflangue.json
+Including also a customized telegram bot to parse that information to a telegram bot.
+
+Using romanian/russian commands.Predefined messages are separate for each language.
+
+Automated userbase curating system alongside their specified language of choise userlangpref.json (crossroad map for the entire system)
 
 Promo scheduler.
 Poll system.
